@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 Mini Project 1
 Group 7: Ioana Guna, Jealee Jones, Mary Safowah, McKenzie Custer
-Date: 09/23/2020
+Date: 09/25/2020
 */
 
 class Main {
